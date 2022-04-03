@@ -10,6 +10,7 @@ archived because I'm not hosting this anymore
   * salvo core
   * heal on kill
   * stim on kill
+  * grapple
   * randomized gun order per match (but same for everyone)
 
 ## install
